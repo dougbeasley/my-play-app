@@ -55,7 +55,7 @@ with MongoController with ReactiveMongoComponents {
 
 object WidgetFields {
   val Id = "_id"
-  val Name ="name"
+  val Name = "name"
   val Description = "description"
   val Author = "author"
 }
